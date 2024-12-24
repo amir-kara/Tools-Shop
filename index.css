@@ -1251,11 +1251,7 @@ hr {
 	}
 
 	.ad_container {
-		display: block;
-		margin: 40px;
-		padding: 70px;
-		width: 100%;
-		height: auto;
+		display: none;
 	}
 
 	.most_sales_items {
